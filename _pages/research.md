@@ -33,7 +33,7 @@ author_profile: true
 
 # Other Writing
 
-[Real Inventory Slowdowns](https://libertystreeteconomics.newyorkfed.org/2019/11/real-inventoryslowdowns.html), (with Richard Crump and David Lucca), _Liberty Street Economics_, (2019).
+[Real Inventory Slowdowns](https://libertystreeteconomics.newyorkfed.org/2019/11/real-inventory-slowdowns.html), (with Richard Crump and David Lucca), _Liberty Street Economics_, (2019).
 
 [Is the Recent Tax Reform Playing a Role in the Decline of Home Sales?](https://libertystreeteconomics.newyorkfed.org/2019/04/is-the-recent-tax-reform-playing-a-role-in-the-decline-of-home-sales.html), (with Richard Peach), _Liberty Street Economics_, (2019)
 
