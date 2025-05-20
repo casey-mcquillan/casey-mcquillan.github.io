@@ -15,7 +15,7 @@ main:
     url: /research/    
     
   - title: "CV"
-    url: "/files/CV_McQuillan"
+    url: "/files/CV_McQuillan.pdf"
     target: "_blank"
     
   # - title: "CV"
