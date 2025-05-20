@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "Casey McQuillan"
 title_separator          : "-"
 name                     : &name "Casey McQuillan"
 description              : &description "PhD Candidate in Economics"
