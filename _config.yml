@@ -23,7 +23,7 @@ repository               : "casey-mcquillan/casey-mcquillan.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpg"
-  name             : "Casey McQuillan"
+  name             : #"Casey McQuillan"
   pronouns         : # example: "he/him"  
   bio              : "PhD Candidate in Economics"
   location         : #"Princeton, NJ"
