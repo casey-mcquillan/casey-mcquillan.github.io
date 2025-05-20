@@ -25,8 +25,8 @@ author:
   avatar           : "headshot.jpg"
   name             : # "Casey McQuillan"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Economics at Princeton University focusing on labor economics and public finance."
-  location         : "Princeton, NJ"
+  bio              : #"PhD Candidate in Economics at Princeton University focusing on labor economics and public finance."
+  location         : #"Princeton, NJ"
   employer         : "Princeton University"
   uri              : # URL
   email            : "caseycm@princeton.edu" 
