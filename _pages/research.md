@@ -19,22 +19,6 @@ Working Papers
 
 
 **The Benefits of Unemployment Insurance for Marginally Attached Workers** (with Brendan Moore)
-
-<button onclick="toggleAbstract()">Abstract</button>
-<div id="abstract" style="display: none;">
-> Existing research documents that more generous unemployment insurance (UI) delays job finding with limited effects on job quality. This paper exploits the eligibility threshold to examine how UI receipt impacts job search for lower-income workers. Using employer-employee matched data from Washington State and a fuzzy regression discontinuity design, we find that UI receipt minimally delays re-employment but substantially improves labor market outcomes. UI increases cumulative hours worked by approximately 15 full-time weeks and earnings by \$14,000 in the two years following job loss, representing 37 percent and 50 percent increases, respectively. These gains are driven by improved job quality, as recipients experience longer tenure and higher wages with their next employer. Effects are larger for workers living near public employment offices, suggesting that access to re-employment services enhances search productivity. Expanding UI access by lowering the eligibility threshold is much more cost-effective than raising benefit levels or extending potential duration, as workers benefit from more stable, higher-paying re-employment that partially offsets its cost.
-</div>
-<script>
-function toggleAbstract() {
-    var abstract = document.getElementById("abstract");
-    abstract.style.display = (abstract.style.display === "none") ? "block" : "none";
-}
-</script>
-<a href="files/CV_McQuillan.pdf" target="_blank">
-<button>Draft</button>
-</a>
-
-**The Benefits of Unemployment Insurance for Marginally Attached Workers** (with Brendan Moore)
 > Existing research documents that more generous unemployment insurance (UI) delays job finding with limited effects on job quality. This paper exploits the eligibility threshold to examine how UI receipt impacts job search for lower-income workers. Using employer-employee matched data from Washington State and a fuzzy regression discontinuity design, we find that UI receipt minimally delays re-employment but substantially improves labor market outcomes. UI increases cumulative hours worked by approximately 15 full-time weeks and earnings by \$14,000 in the two years following job loss, representing 37 percent and 50 percent increases, respectively. These gains are driven by improved job quality, as recipients experience longer tenure and higher wages with their next employer. Effects are larger for workers living near public employment offices, suggesting that access to re-employment services enhances search productivity. Expanding UI access by lowering the eligibility threshold is much more cost-effective than raising benefit levels or extending potential duration, as workers benefit from more stable, higher-paying re-employment that partially offsets its cost.
 
 
