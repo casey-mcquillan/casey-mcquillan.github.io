@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Casey1!! This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+Hello! I am a PhD Candidate in Economics at Princeton University focusing on labor economics and public finance.
