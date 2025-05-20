@@ -34,9 +34,12 @@ author_profile: true
 # Other Writing
 
 [Real Inventory Slowdowns](https://libertystreeteconomics.newyorkfed.org/2019/11/real-inventory-slowdowns.html){:target="_blank"}, (with Richard Crump and David Lucca), _Liberty Street Economics_, (2019).
-[Is the Recent Tax Reform Playing a Role in the Decline of Home Sales?](https://libertystreeteconomics.newyorkfed.org/2019/04/is-the-recent-tax-reform-playing-a-role-in-the-decline-of-home-sales.html){:target="_blank"}, (with Richard Peach), _Liberty Street Economics_, (2019)
+
+[Is the Recent Tax Reform Playing a Role in the Decline of Home Sales?](https://libertystreeteconomics.newyorkfed.org/2019/04/is-the-recent-tax-reform-playing-a-role-in-the-decline-of-home-sales.html){:target="_blank"}, (with Richard Peach), _Liberty Street Economics_, (2019).
+
 [To Ban or Not To Ban: Regulating For-Profit Charter Schools](https://www.amherst.edu/system/files/media/Casey%2520McQuillan%2520Thesis.pdf){:target="_blank"}, Amherst College Honors Thesis,
 (2018).
+
 [Learning From Ferguson; Using Body Cameras and Participatory Governance to Improve Policing](https://studentreview.hks.harvard.edu/learning-from-ferguson-using-body-cameras-and-participatory-governance-to-improve-policing/){:target="_blank"}, (with Lucas Turner-Owens), _Harvard Journal of Public African American Policy_, (2015).
 
 
