@@ -21,7 +21,7 @@ author_profile: true
 
 
 
-**Barriers to Benefits: Unemployment Insurance Take-Up, Frictions, and Labor Market Consequences** <br>
+**Barriers to Benefits: Unemployment Insurance Take-Up, Frictions, and Labor Market Consequences** (with Brendan Moore) <br>
 > Unemployment Insurance (UI) provides income support during job loss, yet take-up remains puzzlingly low, with only about half of eligible unemployed workers in the U.S. claiming benefits. We implement a large-scale field experiment among 50,000 recently unemployed, non-UI claiming workers in Washington State to study the causes and labor supply implications of incomplete take-up. The feature of the data that allows us to distinguish between misperception of eligibility and hassle costs is the effect of treatment on the UI rejection rate of those induced to apply. We experimentally vary whether letters include a destigmatizing message. Informational letters increased UI applications by 1.5 percentage points (80% relative to control), with effects concentrated among low-wage workers. We attribute the effect of generic informational letters on take-up to reduced hassle costs rather than improved eligibility perceptions. Destigmatizing letters induced more applications only from high-wage job seekers. Despite higher take-up, we can rule out negative effects of UI receipt on job search duration. These findings suggest that disproportionately low-wage workers were induced to apply because of reduced hassle costs but did not distort their search behavior while on UI.
 
 
