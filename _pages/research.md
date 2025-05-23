@@ -31,8 +31,7 @@ author_profile: true
 > Over half of the U.S. population receives health insurance through an employer, with employer premium contributions creating a flat “head tax” per worker, independent of their earnings. This paper develops and calibrates a stylized model of the labor market to explore how this uniquely American approach to financing health insurance contributes to labor market inequality. We consider a partial-equilibrium counterfactual in which employer-provided health insurance is instead financed by a statutory payroll tax on firms. We find that, under this counterfactual financing, in 2019 the college wage premium would have been 11 percent lower, non-college annual earnings would have been $1,700 (3 percent) higher, and non-college employment would have been nearly 500,000 higher. These calibrated labor market effects of switching from head-tax to payroll-tax financing are in the same ballpark as estimates of the impact of other leading drivers of labor market inequality, including changes in outsourcing, robot adoption, rising trade, unionization, and the real minimum wage. We also consider a separate partial-equilibrium counterfactual in which the current head-tax financing is maintained, but 2019 U.S. health care spending as a share of GDP is reduced to the Canadian share; here, we estimate that the 2019 college wage premium would have been 5 percent lower and non-college annual earnings would have been 5 percent higher. These findings suggest that health care costs and the financing of health insurance warrant greater attention in both public policy and research on U.S. labor market inequality.
 
 
-
-# Other Writing
+# <span style="color: #4682B4;">Other Writing</span>
 
 [Real Inventory Slowdowns](https://libertystreeteconomics.newyorkfed.org/2019/11/real-inventory-slowdowns.html){:target="_blank"}, (with Richard Crump and David Lucca), _Liberty Street Economics_, (2019).
 
