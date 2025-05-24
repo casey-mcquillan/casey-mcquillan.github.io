@@ -16,7 +16,8 @@ Standard models of UI focus on how benefit generosity affects the average claim 
 </div>
 
 
-# <span style="color: #4682B4;">Working Papers</span>
+# Working Papers
+
 **The Benefits of Unemployment Insurance for Marginally Attached Workers** (with Brendan Moore) <br>
 [ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_RDD')" .paper-link} | [Draft](https://arxiv.org/pdf/2301.00001.pdf){: target="\_blank" .paper-link} ]
 <div id="abstract_RDD" class="abstract hidden">
@@ -24,7 +25,6 @@ Standard models of UI focus on how benefit generosity affects the average claim 
 Existing research documents that more generous unemployment insurance (UI) delays job finding with limited effects on job quality. This paper exploits the eligibility threshold to examine how UI receipt impacts job search for lower-income workers. Using employer-employee matched data from Washington State and a fuzzy regression discontinuity design, we find that UI receipt minimally delays re-employment but substantially improves labor market outcomes. UI increases cumulative hours worked by approximately 15 full-time weeks and earnings by \$14,000 in the two years following job loss, representing 37 percent and 50 percent increases, respectively. These gains are driven by improved job quality, as recipients experience longer tenure and higher wages with their next employer. Effects are larger for workers living near public employment offices, suggesting that access to re-employment services enhances search productivity. Expanding UI access by lowering the eligibility threshold is much more cost-effective than raising benefit levels or extending potential duration, as workers benefit from more stable, higher-paying re-employment that partially offsets its cost.
 </blockquote>
 </div>
-
 
 **Barriers to Benefits: Unemployment Insurance Take-Up, Frictions, and Labor Market Consequences** (with Brendan Moore) <br>
 [ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_RCT')" .paper-link} | [Draft](https://arxiv.org/pdf/2301.00001.pdf){: target="\_blank" .paper-link} ]
@@ -35,8 +35,8 @@ Unemployment Insurance (UI) provides income support during job loss, yet take-up
 </div>
 
 
+# Publications
 
-# <span style="color: #4682B4;">Publications</span>
 **The Health Wedge and Labor Market Inequality** (with Amy Finkelstein, Owen Zidar, and Eric Zwick), _Brookings Papers on Economic Activity_, 2023. <br>
 [ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_FMZZ')" .paper-link} | [Published Version](https://arxiv.org/pdf/2301.00001.pdf){: target="\_blank" .paper-link} | [NBER Working Paper](https://arxiv.org/pdf/2301.00001.pdf){: target="\_blank" .paper-link} | [Code](https://arxiv.org/pdf/2301.00001.pdf){: target="\_blank" .paper-link} |
 <div id="abstract_FMZZ" class="abstract hidden">
@@ -46,8 +46,7 @@ Over half of the U.S. population receives health insurance through an employer, 
 </div>
 
 
-
-# <span style="color: #4682B4;">Other Writing</span>
+# Other Writing
 
 [Real Inventory Slowdowns](https://libertystreeteconomics.newyorkfed.org/2019/11/real-inventory-slowdowns.html){:target="\_blank"}, (with Richard Crump and David Lucca), _Liberty Street Economics_, (2019).
 
