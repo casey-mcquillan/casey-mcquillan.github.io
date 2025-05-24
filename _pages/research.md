@@ -5,26 +5,38 @@ permalink: /research/
 author_profile: true
 
 ---
-### **Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore)
+
+
+
+
+# <span style="color: #4682B4;">Job Market Paper</span>
+
+### **Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore)  
 [
-[Show Abstract](#){: onclick="toggleAbstract('abstract_RKD')" .paper-link} ·
-[Draft](https://arxiv.org/pdf/2301.00001.pdf){: .paper-link}
-]
+[Show Abstract](#){: onclick="toggleAbstract('abstract_RKD')" .paper-link} ·  
+[[Draft]](https://arxiv.org/pdf/2301.00001.pdf){: .paper-link}  
+]  
 <div id="abstract_RKD" class="abstract hidden">
-> This paper examines the incomplete and endogenous take-up of unemployment insurance (UI) benefits as well as its policy implications. Standard models of UI focus on how benefit generosity affects the average claim duration, assuming perfect take-up. Yet, benefit receipt is highly incomplete, with estimates of take-up among eligible workers below 50 percent in the United States. We show that take-up is an important margin of response: If benefits become more generous, more workers claim benefits in addition to claimants remaining on benefits for longer. Using a sample of likely eligible workers, we leverage a regression kink design to identify the causal effect of weekly benefit level on take-up and total benefit duration. Our results suggest a 10 percent increase in the weekly benefit leads to a 4.8 percent increase in take-up, which drives a 6.4 percent increase in total benefit duration. Previous work did not account for a take-up response and thus underestimated the fiscal externality associated with raising benefit levels. Endogenous take-up has implications for UI policy: the wedge between the optimal benefit level and full insurance doubles; the value of spending to raise the benefit level decreases by 20 cents for every $1.
+<blockquote style="margin-left: 20px; padding-left: 15px; border-left: 3px solid #0072b2;">
+This paper examines the incomplete and endogenous take-up of unemployment insurance (UI) benefits as well as its policy implications. Standard models of UI focus on how benefit generosity affects the average claim duration, assuming perfect take-up. Yet, benefit receipt is highly incomplete, with estimates of take-up among eligible workers below 50 percent in the United States.  
+<br><br>
+We show that take-up is an important margin of response: If benefits become more generous, more workers claim benefits in addition to claimants remaining on benefits for longer. Using a sample of likely eligible workers, we leverage a regression kink design to identify the causal effect of weekly benefit level on take-up and total benefit duration.  
+<br><br>
+Our results suggest a 10 percent increase in the weekly benefit leads to a 4.8 percent increase in take-up, which drives a 6.4 percent increase in total benefit duration. Previous work did not account for a take-up response and thus underestimated the fiscal externality associated with raising benefit levels. Endogenous take-up has implications for UI policy: the wedge between the optimal benefit level and full insurance doubles; the value of spending to raise the benefit level decreases by 20 cents for every $1.
+</blockquote>
 </div>
 
 <style>
 .hidden { display: none; }
 
 .paper-link {
-  color: #0072b2;
+  color: #3399ff; /* Brighter shade */
   text-decoration: none;
   font-weight: normal;
 }
 
 .paper-link:hover {
-  text-decoration: underline;
+  color: #0057b3; /* Darker shade when hovered */
 }
 </style>
 
@@ -34,13 +46,6 @@ function toggleAbstract(id) {
   abstract.classList.toggle("hidden");
 }
 </script>
-
-
-# <span style="color: #4682B4;">Job Market Paper</span>
-
-**Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore) <br>
-> This paper examines the incomplete and endogenous take-up of unemployment insurance (UI) benefits as well as its policy implications. Standard models of UI focus on how benefit generosity affects the average claim duration, assuming perfect take-up. Yet, benefit receipt is highly incomplete, with estimates of take-up among eligible workers below 50 percent in the United States. We show that take-up is an important margin of response: If benefits become more generous, more workers claim benefits in addition to claimants remaining on benefits for longer. Using a sample of likely eligible workers, we leverage a regression kink design to identify the causal effect of weekly benefit level on take-up and total benefit duration. Our results suggest a 10 percent increase in the weekly benefit leads to a 4.8 percent increase in take-up, which drives a 6.4 percent increase in total benefit duration. Previous work did not account for a take-up response and thus underestimated the fiscal externality associated with raising benefit levels. Endogenous take-up has implications for UI policy: the wedge between the optimal benefit level and full insurance doubles; the value of spending to raise the benefit level decreases by 20 cents for every \$1.
-
 
 
 # <span style="color: #4682B4;">Working Papers</span>
