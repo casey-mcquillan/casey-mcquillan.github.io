@@ -7,6 +7,40 @@ author_profile: true
 ---
 
 
+### **The Economics of Time Travel**
+*John Doe*
+
+<button onclick="toggleAbstract('abstract1')">Show Abstract</button>
+[Draft](https://arxiv.org/pdf/2301.00001.pdf){: .button}
+[Slides](https://example.com/slides.pdf){: .button}
+
+<div id="abstract1" class="abstract hidden">
+_Time travel presents profound economic implications, particularly in labor markets where individuals may optimize work-life balance across centuries. This paper explores potential policy responses, including intertemporal taxation frameworks and historical wage adjustments._
+</div>
+
+<style>
+.hidden { display: none; }
+.button {
+  background-color: #4676D7;
+  color: white;
+  padding: 6px 10px;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-right: 5px;
+}
+.button:hover {
+  background-color: #3659A2;
+}
+</style>
+
+<script>
+function toggleAbstract(id) {
+  var abstract = document.getElementById(id);
+  abstract.classList.toggle("hidden");
+}
+</script>
+
+
 # <span style="color: #4682B4;">Job Market Paper</span>
 
 **Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore) <br>
