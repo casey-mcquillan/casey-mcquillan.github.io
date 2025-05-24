@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-# <span style="color: #4682B4;">Job Market Paper</span>
+# Job Market Paper
 
 **Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore) <br>
 [ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_JMP')" .paper-link} | [Draft](https://arxiv.org/pdf/2301.00001.pdf){: target="\_blank" .paper-link} ]
