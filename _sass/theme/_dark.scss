@@ -51,4 +51,7 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
+    --global-h1-color: #2f7f93;   /* Teal for light mode */
+    --global-h2-color: #ee5f5b;   /* Red for light mode */
+    --global-h3-color: #f89406;   /* Orange for light mode */
 }
