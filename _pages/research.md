@@ -31,8 +31,8 @@ Existing research documents that more generous unemployment insurance (UI) delay
 
 
 **Barriers to Benefits: Unemployment Insurance Take-Up, Frictions, and Labor Market Consequences** (with Brendan Moore) <br>
-[[Abstract](#){: onclick="toggleAbstract('abstract2')" .paper-link} · [Draft](https://arxiv.org/pdf/2301.00001.pdf){: target="_blank" .paper-link}]
-<div id="abstract2" class="abstract hidden">
+[[Abstract](#){: onclick="toggleAbstract('abstract_RCT')" .paper-link} · [Draft](https://arxiv.org/pdf/2301.00001.pdf){: target="_blank" .paper-link}]
+<div id="abstract_RCT" class="abstract hidden">
 <blockquote style="margin-left: 20px; padding-left: 15px; border-left: 3px solid rgb(238, 99, 99);">
 Unemployment Insurance (UI) provides income support during job loss, yet take-up remains puzzlingly low, with only about half of eligible unemployed workers in the U.S. claiming benefits. We implement a large-scale field experiment among 50,000 recently unemployed, non-UI claiming workers in Washington State to study the causes and labor supply implications of incomplete take-up. The feature of the data that allows us to distinguish between misperception of eligibility and hassle costs is the effect of treatment on the UI rejection rate of those induced to apply. We experimentally vary whether letters include a destigmatizing message. Informational letters increased UI applications by 1.5 percentage points (80% relative to control), with effects concentrated among low-wage workers. We attribute the effect of generic informational letters on take-up to reduced hassle costs rather than improved eligibility perceptions. Destigmatizing letters induced more applications only from high-wage job seekers. Despite higher take-up, we can rule out negative effects of UI receipt on job search duration. These findings suggest that disproportionately low-wage workers were induced to apply because of reduced hassle costs but did not distort their search behavior while on UI.
 </blockquote>
