@@ -18,7 +18,7 @@ This paper examines the incomplete and endogenous take-up of unemployment insura
 
 
 # <span style="color: #4682B4;">Working Papers</span>
-**The Benefits of Unemployment Insurance for Marginally Attached Workers** (with Brendan Moore)
+**The Benefits of Unemployment Insurance for Marginally Attached Workers** (with Brendan Moore) <br>
 [[Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_RDD')" .paper-link} · [Draft](https://arxiv.org/pdf/2301.00001.pdf){: target="\_blank" .paper-link}]
 <div id="abstract_RDD" class="abstract hidden">
 <blockquote style="margin-left: 20px; padding-left: 15px; border-left: 3px solid rgb(238, 99, 99);">
@@ -27,7 +27,7 @@ Existing research documents that more generous unemployment insurance (UI) delay
 </div>
 
 
-**Barriers to Benefits: Unemployment Insurance Take-Up, Frictions, and Labor Market Consequences** (with Brendan Moore)
+**Barriers to Benefits: Unemployment Insurance Take-Up, Frictions, and Labor Market Consequences** (with Brendan Moore) <br>
 [[Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_RCT')" .paper-link} · [Draft](https://arxiv.org/pdf/2301.00001.pdf){: target="\_blank" .paper-link}]
 <div id="abstract_RCT" class="abstract hidden">
 <blockquote style="margin-left: 20px; padding-left: 15px; border-left: 3px solid rgb(238, 99, 99);">
@@ -38,8 +38,8 @@ Unemployment Insurance (UI) provides income support during job loss, yet take-up
 
 
 # <span style="color: #4682B4;">Publications</span>
-**The Health Wedge and Labor Market Inequality** (with Amy Finkelstein, Owen Zidar, and Eric Zwick), _Brookings Papers on Economic Activity_, 2023.
-[[Abstract](#){: onclick="toggleAbstract('abstract_FMZZ', event)" .paper-link} · [Draft](https://arxiv.org/pdf/2301.00001.pdf){: target="\_blank" .paper-link}]
+**The Health Wedge and Labor Market Inequality** (with Amy Finkelstein, Owen Zidar, and Eric Zwick), _Brookings Papers on Economic Activity_, 2023. <br>
+[[Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_FMZZ')" .paper-link} · [Draft](https://arxiv.org/pdf/2301.00001.pdf){: target="\_blank" .paper-link}]
 <div id="abstract_FMZZ" class="abstract hidden">
 <blockquote style="margin-left: 20px; padding-left: 15px; border-left: 3px solid rgb(238, 99, 99);">
 Over half of the U.S. population receives health insurance through an employer, with employer premium contributions creating a flat “head tax” per worker, independent of their earnings. This paper develops and calibrates a stylized model of the labor market to explore how this uniquely American approach to financing health insurance contributes to labor market inequality. We consider a partial-equilibrium counterfactual in which employer-provided health insurance is instead financed by a statutory payroll tax on firms. We find that, under this counterfactual financing, in 2019 the college wage premium would have been 11 percent lower, non-college annual earnings would have been $1,700 (3 percent) higher, and non-college employment would have been nearly 500,000 higher. These calibrated labor market effects of switching from head-tax to payroll-tax financing are in the same ballpark as estimates of the impact of other leading drivers of labor market inequality, including changes in outsourcing, robot adoption, rising trade, unionization, and the real minimum wage. We also consider a separate partial-equilibrium counterfactual in which the current head-tax financing is maintained, but 2019 U.S. health care spending as a share of GDP is reduced to the Canadian share; here, we estimate that the 2019 college wage premium would have been 5 percent lower and non-college annual earnings would have been 5 percent higher. These findings suggest that health care costs and the financing of health insurance warrant greater attention in both public policy and research on U.S. labor market inequality.
