@@ -6,12 +6,9 @@ author_profile: true
 
 ---
 
-
-
-
 # <span style="color: #4682B4;">Job Market Paper</span>
 
-### **Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore)  
+**Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore)  
 
 [[<span class="paper-link">Abstract · Draft</span>](#){: onclick="toggleAbstract('abstract_RKD')}](https://arxiv.org/pdf/2301.00001.pdf){: .paper-link}  
 
@@ -24,14 +21,12 @@ This paper examines the incomplete and endogenous take-up of unemployment insura
 <style>
 .hidden { display: none; }
 
-.paper-link {
-  color: #3399ff; /* Brighter shade */
+.paper-link { /* Brighter shade */
   text-decoration: none;
   font-weight: normal;
 }
 
-.paper-link:hover {
-  color: #0057b3; /* Darker shade when hovered */
+.paper-link:hover {/* Darker shade when hovered */
 }
 </style>
 
