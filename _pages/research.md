@@ -5,31 +5,33 @@ permalink: /research/
 author_profile: true
 
 ---
+# <span style="color: #4682B4;">Job Market Paper</span>
 
+### **Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore)
 
-### **The Economics of Time Travel**
-*John Doe*
-
-<button onclick="toggleAbstract('abstract1')">Show Abstract</button>
-[Draft](https://arxiv.org/pdf/2301.00001.pdf){: .button}
-[Slides](https://example.com/slides.pdf){: .button}
+[Show Abstract](#){: onclick="toggleAbstract('abstract1')" .paper-link} ·
+[Draft](https://arxiv.org/pdf/2301.00001.pdf){: .paper-link} ·
+[Slides](https://example.com/slides.pdf){: .paper-link}
 
 <div id="abstract1" class="abstract hidden">
-_Time travel presents profound economic implications, particularly in labor markets where individuals may optimize work-life balance across centuries. This paper explores potential policy responses, including intertemporal taxation frameworks and historical wage adjustments._
+This paper examines the incomplete and endogenous take-up of unemployment insurance (UI) benefits as well as its policy implications. Standard models of UI focus on how benefit generosity affects the average claim duration, assuming perfect take-up. Yet, benefit receipt is highly incomplete, with estimates of take-up among eligible workers below 50 percent in the United States. 
+
+We show that take-up is an important margin of response: If benefits become more generous, more workers claim benefits in addition to claimants remaining on benefits for longer. Using a sample of likely eligible workers, we leverage a regression kink design to identify the causal effect of weekly benefit level on take-up and total benefit duration. 
+
+Our results suggest a 10 percent increase in the weekly benefit leads to a 4.8 percent increase in take-up, which drives a 6.4 percent increase in total benefit duration. Previous work did not account for a take-up response and thus underestimated the fiscal externality associated with raising benefit levels. Endogenous take-up has implications for UI policy: the wedge between the optimal benefit level and full insurance doubles; the value of spending to raise the benefit level decreases by 20 cents for every $1.
 </div>
 
 <style>
 .hidden { display: none; }
-.button {
-  background-color: #4676D7;
-  color: white;
-  padding: 6px 10px;
+
+.paper-link {
+  color: #0072b2;
   text-decoration: none;
-  border-radius: 4px;
-  margin-right: 5px;
+  font-weight: normal;
 }
-.button:hover {
-  background-color: #3659A2;
+
+.paper-link:hover {
+  text-decoration: underline;
 }
 </style>
 
