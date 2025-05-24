@@ -8,7 +8,7 @@ author_profile: true
 # Job Market Paper
 
 **Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore) <br>
-[ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_JMP')" .paper-link} | [Draft](https://arxiv.org/pdf/2301.00001.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} ]
+[ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_JMP')" .paper-link} | Draft Forthcoming ]
 <div id="abstract_JMP">
 <blockquote style="margin-left: 20px; padding-left: 15px; border-left: 3px solid rgb(181, 74, 74);">
 Standard models of UI focus on how benefit generosity affects the average claim duration, assuming perfect take-up. Yet, benefit receipt is highly incomplete, with estimates of take-up among eligible workers below 50 percent in the United States. We show that take-up is an important margin of response: If benefits become more generous, more workers claim benefits in addition to claimants remaining on benefits for longer. Using a sample of likely eligible workers, we leverage a regression kink design to identify the causal effect of weekly benefit level on take-up and total benefit duration. Our results suggest a 10 percent increase in the weekly benefit leads to a 4.8 percent increase in take-up, which drives a 6.4 percent increase in total benefit duration. Previous work did not account for a take-up response and thus underestimated the fiscal externality associated with raising benefit levels. Endogenous take-up has implications for UI policy: the wedge between the optimal benefit level and full insurance doubles; the value of spending to raise the benefit level decreases by 20 cents for every $1.
@@ -16,11 +16,10 @@ Standard models of UI focus on how benefit generosity affects the average claim 
 </div>
 
 
-
 # Working Papers
 
 **The Benefits of Unemployment Insurance for Marginally Attached Workers** (with Brendan Moore) <br>
-[ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_RDD')" .paper-link} | [Draft](https://arxiv.org/pdf/2301.00001.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} ]
+[ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_RDD')" .paper-link} | Draft Forthcoming ]
 <div id="abstract_RDD" class="abstract hidden">
 <blockquote style="margin-left: 20px; padding-left: 15px; border-left: 3px solid rgb(181, 74, 74);">
 Existing research documents that more generous unemployment insurance (UI) delays job finding with limited effects on job quality. This paper exploits the eligibility threshold to examine how UI receipt impacts job search for lower-income workers. Using employer-employee matched data from Washington State and a fuzzy regression discontinuity design, we find that UI receipt minimally delays re-employment but substantially improves labor market outcomes. UI increases cumulative hours worked by approximately 15 full-time weeks and earnings by \$14,000 in the two years following job loss, representing 37 percent and 50 percent increases, respectively. These gains are driven by improved job quality, as recipients experience longer tenure and higher wages with their next employer. Effects are larger for workers living near public employment offices, suggesting that access to re-employment services enhances search productivity. Expanding UI access by lowering the eligibility threshold is much more cost-effective than raising benefit levels or extending potential duration, as workers benefit from more stable, higher-paying re-employment that partially offsets its cost.
@@ -46,7 +45,7 @@ Unemployment Insurance (UI) provides income support during job loss, yet take-up
 Over half of the U.S. population receives health insurance through an employer, with employer premium contributions creating a flat “head tax” per worker, independent of their earnings. This paper develops and calibrates a stylized model of the labor market to explore how this uniquely American approach to financing health insurance contributes to labor market inequality. We consider a partial-equilibrium counterfactual in which employer-provided health insurance is instead financed by a statutory payroll tax on firms. We find that, under this counterfactual financing, in 2019 the college wage premium would have been 11 percent lower, non-college annual earnings would have been $1,700 (3 percent) higher, and non-college employment would have been nearly 500,000 higher. These calibrated labor market effects of switching from head-tax to payroll-tax financing are in the same ballpark as estimates of the impact of other leading drivers of labor market inequality, including changes in outsourcing, robot adoption, rising trade, unionization, and the real minimum wage. We also consider a separate partial-equilibrium counterfactual in which the current head-tax financing is maintained, but 2019 U.S. health care spending as a share of GDP is reduced to the Canadian share; here, we estimate that the 2019 college wage premium would have been 5 percent lower and non-college annual earnings would have been 5 percent higher. These findings suggest that health care costs and the financing of health insurance warrant greater attention in both public policy and research on U.S. labor market inequality.
 </blockquote>
 </div>
-
+<br>
 
 
 # Other Writing
