@@ -12,7 +12,8 @@ author_profile: true
 # <span style="color: #4682B4;">Job Market Paper</span>
 
 ### **Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore)  
-[Abstract](#){: onclick="toggleAbstract('abstract_RKD')" .paper-link} · [[Draft]](https://arxiv.org/pdf/2301.00001.pdf){: .paper-link}  
+
+[[<span class="paper-link">Abstract · Draft</span>](#){: onclick="toggleAbstract('abstract_RKD')}](https://arxiv.org/pdf/2301.00001.pdf){: .paper-link}  
 
 <div id="abstract_RKD" class="abstract hidden">
 <blockquote style="margin-left: 20px; padding-left: 15px; border-left: 3px solid #3399ff;">
@@ -40,7 +41,6 @@ function toggleAbstract(id) {
   abstract.classList.toggle("hidden");
 }
 </script>
-
 
 # <span style="color: #4682B4;">Working Papers</span>
 
