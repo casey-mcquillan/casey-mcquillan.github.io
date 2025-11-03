@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-Hello! My name is Casey McQuillan, and I am a Ph.D. Candidate in the Economics Department at Princeton University. \textbf{I will be on the 2025-2026 academic job market.} You can find my CV [here](https://casey-mcquillan.github.io/files/CV_McQuillan.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} and reach me at caseycm@princeton.edu.
+Hello! My name is Casey McQuillan, and I am a Ph.D. Candidate in the Economics Department at Princeton University. **I will be on the 2025-2026 academic job market.** You can find my CV [here](https://casey-mcquillan.github.io/files/CV_McQuillan.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} and reach me at [caseycm@princeton.edu](caseycm@princeton.edu)
 
 
 My research interests are in labor economics, public finance, and applied microeconomics more broadly. I study the interaction of insurance and labor markets, considering how policy can shape inequality, opportunity, and welfare. From 2022 to 2025, I served as an Operations Research Specialist with the Washington State Employment Security Department while completing my dissertation. My research has been supported by the National Science Foundation's Graduate Research Fellowship Program, Policy Impacts at MIT, and Princeton's Program for Research on Inequality.
@@ -16,14 +16,11 @@ Before beginning my Ph.D. at Princeton, I worked as a Senior Research Analyst at
 
 **References**
 
-- **Professor Ilyana Kuziemko** — Department of Economics, Princeton University  
-  [kuziemko@princeton.edu](mailto:kuziemko@princeton.edu)
+- [**Professor Ilyana Kuziemko**](mailto:kuziemko@princeton.edu)
 
-- **Professor David Lee** — Department of Economics, Princeton University  
-  [davidlee@princeton.edu](mailto:davidlee@princeton.edu)
+- [**Professor David Lee**](mailto:davidlee@princeton.edu)
 
-- **Professor Owen Zidar** — Department of Economics, Princeton University  
-  [ozidar@princeton.edu](mailto:ozidar@princeton.edu)
+- [**Professor Owen Zidar**](mailto:ozidar@princeton.edu)
 
 
 ---
