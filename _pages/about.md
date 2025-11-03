@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-Hello! My name is Casey McQuillan, and I am a Ph.D. Candidate in the Economics Department at Princeton University. **I will be on the 2025-2026 academic job market.** You can find my CV [here](https://casey-mcquillan.github.io/files/CV_McQuillan.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} and can reach me at [caseycm@princeton.edu](mailto:caseycm@princeton.edu).
+Hello! My name is Casey McQuillan, and I am a Ph.D. Candidate in the Economics Department at Princeton University.  You can find my CV [here](https://casey-mcquillan.github.io/files/CV_McQuillan.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} and can reach me at [caseycm@princeton.edu](mailto:caseycm@princeton.edu). **I will be on the 2025-2026 academic job market.**
 
 
 My research interests are in labor economics, public finance, and applied microeconomics more broadly. I study how public policy shapes inequality, opportunity, and welfare through the interaction of insurance and labor markets. From 2022 to 2025, I served as an Operations Research Specialist with the Washington State Employment Security Department while completing my dissertation. My research has been supported by the National Science Foundation's Graduate Research Fellowship Program, the United States Department of Labor, Policy Impacts at MIT, and Princeton's Program for Research on Inequality.
