@@ -1,0 +1,16 @@
+/* Custom overrides for Casey McQuillan’s site */
+.author__name,
+.site-title,
+h1.site-title {
+  font-size: 3.5rem;  /* make your name much larger */
+  font-weight: 700;   /* bold it */
+  line-height: 1.1;
+  text-align: center; /* optional: center it */
+}
+
+/* Optionally, make the subtitle smaller for contrast */
+.site-subtitle {
+  font-size: 1.25rem;
+  font-weight: 400;
+  opacity: 0.8;
+}
