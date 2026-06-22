@@ -4,19 +4,16 @@ title: "Research"
 permalink: /research/
 author_profile: true
 
----
-# Job Market Paper
+-
+# Working Papers
 
 **Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore) <br>
 [ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_JMP')" .paper-link} | [Draft](https://casey-mcquillan.github.io/files/McQuillan_JMP_EndogenousTakeup.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} | [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5692222){: target="_blank"  rel="noopener noreferrer" .paper-link} ]
-<div id="abstract_JMP">
+<div id="abstract_JMP" class="abstract hidden">
 <blockquote style="margin-left: 20px; padding-left: 15px; border-left: 3px solid rgb(181, 74, 74);">
 This paper investigates how the generosity of unemployment insurance (UI) affects take-up and the implications for optimal policy design. Standard models of UI begin their analysis with benefit receipt, yet take-up is highly incomplete: only around half of eligible workers claim benefits in the United States. We develop a model with incomplete take-up explained by the hassle of applying. More generous benefits induce workers on the margin to claim benefits, creating a fiscal externality without a corresponding utility gain. Our optimal policy condition extends the Baily-Chetty formula to include the take-up elasticity, which proves quantitatively important. Using administrative data from Washington State and a regression kink design (RKD), we find that a 10 percent increase in the weekly benefit increases take-up by 4.7 percent, which drives a 6.2 percent increase in the number of benefit payments. Previous work considers only claim duration by conditioning on benefit receipt, ignoring the take-up response and thus underestimating the fiscal cost. Combining our theory and empirical results, we show that endogenous take-up reduces the optimal benefit level by 29 percent and the cost-effectiveness of raising benefits by 27 percent. Together, these results highlight that incomplete and endogenous take-up is a first-order consideration in the optimal design of social insurance.
 </blockquote>
 </div>
-<div style="height: 15px;"></div>
-
-# Working Papers
 
 **The Benefits of Unemployment Insurance for Marginally Attached Workers** (with Brendan Moore) <br>
 [ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_RDD')" .paper-link} | [Draft](https://casey-mcquillan.github.io/files/McQuillan_UIBenefitsMarginal_2025_0709.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} | [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5357413){: target="_blank"  rel="noopener noreferrer" .paper-link} | [WCEG Working Paper](https://equitablegrowth.org/working-papers/the-benefits-of-unemployment-insurance-for-marginally-attached-workers/){: target="_blank"  rel="noopener noreferrer" .paper-link} ]
