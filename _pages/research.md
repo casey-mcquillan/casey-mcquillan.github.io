@@ -4,7 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 
--
+---
+
 # Working Papers
 
 **Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore) <br>
