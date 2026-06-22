@@ -5,41 +5,27 @@ author_profile: true
 
 ---
 
-Hello! My name is Casey McQuillan, and I am a Ph.D. Candidate in the Economics Department at Princeton University. I will be joining the Economics Department at Stockholm University as an Assistant Professor in Fall 2027 after a postdoc at Brown University with the Economics Department and The Watson School of International and Public Affairs.
+Hello! My name is Casey McQuillan, and I am a Postdoctoral Research Fellow with the Economics Department and The Watson School of International and Public Affairs at Brown University. I will be joining the Economics Department at Stockholm University as an Assistant Professor in Fall 2027. 
 
+You can find my CV [here](https://casey-mcquillan.github.io/files/CV_McQuillan.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} and can reach me at [casey_mcquillan@brown.edu](mailto:casey_mcquillan@brown.edu). 
 
-You can find my CV [here](https://casey-mcquillan.github.io/files/CV_McQuillan.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} and can reach me at [caseycm@princeton.edu](mailto:caseycm@princeton.edu). 
+My research focuses on labor economics and public finance, examining how policy shapes inequality, opportunity, and welfare through the interaction of social insurance, public benefits, and labor markets. Working closely with policymakers, I use administrative data, quasi-experimental methods, and large-scale field experiments to identify the causal effects of policy interventions.
 
+My recent work focuses on the incomplete take-up of unemployment insurance (UI). Across several papers, I explore how benefit generosity, information frictions, and stigma shape take-up, as well as the implications of expanding access to the program. In earlier work, I examined how employer-sponsored health insurance and rising premiums contribute to labor market inequality in the United States. This work has been supported by the National Science Foundation's Graduate Research Fellowship Program, the U.S. Department of Labor, Policy Impacts at MIT, and Princeton's Program for Research on Inequality.
 
-My research interests are in labor economics and public finance. I study how public policy shapes inequality, opportunity, and welfare through the interaction of insurance and labor markets. From 2022 to 2025, I served as an Operations Research Specialist with the Washington State Employment Security Department while completing my dissertation. My research has been supported by the National Science Foundation's Graduate Research Fellowship Program, the United States Department of Labor, Policy Impacts at MIT, and Princeton's Program for Research on Inequality.
-
-Before graudate school, I worked as a Senior Research Analyst at the Federal Reserve Bank of New York. I received my B.A. in Economics and Mathematics from Amherst College in 2018.
-
----
-
-**References**
-
-- [**Professor Ilyana Kuziemko**](mailto:kuziemko@princeton.edu)
-
-- [**Professor David Lee**](mailto:davidlee@princeton.edu)
-
-- [**Professor Owen Zidar**](mailto:ozidar@princeton.edu)
+Previously, I served as an Operations Research Specialist at the Washington State Employment Security Department and a Senior Research Analyst at the Federal Reserve Bank of New York. I received my Ph.D. in Economics from Princeton University in 2026 and my B.A. from Amherst College in 2018.
 
 
 ---
+# Working Papers
 
-# Job Market Paper
-
-**Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (with Brendan Moore) <br>
+**Incomplete and Endogenous Take-Up of Unemployment Insurance Benefits** (Job market paper, with Brendan Moore) <br>
 [ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_JMP')" .paper-link} | [Draft](https://casey-mcquillan.github.io/files/McQuillan_JMP_EndogenousTakeup.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} | [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5692222){: target="_blank"  rel="noopener noreferrer" .paper-link} ]
 <div id="abstract_JMP">
 <blockquote style="margin-left: 20px; padding-left: 15px; border-left: 3px solid rgb(181, 74, 74);">
 This paper investigates how the generosity of unemployment insurance (UI) affects take-up and optimal policy design. Standard models of UI begin their analysis with benefit receipt, yet take-up is highly incomplete: only around half of eligible workers claim benefits in the United States. We develop a model with incomplete take-up explained by the hassle of applying. More generous benefits induce workers on the margin to claim benefits, creating a fiscal externality without providing additional insurance value. Our optimal policy condition extends the Baily-Chetty formula to include the take-up elasticity, which proves quantitatively important. Using administrative data from Washington State and a regression kink design (RKD), we find that a 10 percent increase in the weekly benefit increases take-up by 4.7 percent, which drives a 6.2 percent increase in the number of benefit payments. Previous work considers only the duration elasticity by conditioning on benefit receipt, ignoring the take-up response and thus underestimating the fiscal cost. Combining our theory and empirical results, we show that endogenous take-up reduces the optimal benefit level by 29 percent and the cost-effectiveness of raising benefits by 27 percent. Together, these results highlight that incomplete and endogenous take-up is a first-order consideration in the optimal design of social insurance.
 </blockquote>
 </div>
-<div style="height: 15px;"></div>
-
-# Working Papers
 
 **The Benefits of Unemployment Insurance for Marginally Attached Workers** (with Brendan Moore) <br>
 [ [Abstract](#){: onclick="event.preventDefault(); toggleAbstract('abstract_RDD')" .paper-link} | [Draft](https://casey-mcquillan.github.io/files/McQuillan_UIBenefitsMarginal_2025_0709.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} | [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5357413){: target="_blank"  rel="noopener noreferrer" .paper-link} | [WCEG Working Paper](https://equitablegrowth.org/working-papers/the-benefits-of-unemployment-insurance-for-marginally-attached-workers/){: target="_blank"  rel="noopener noreferrer" .paper-link} ]
