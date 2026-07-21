@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-Hello! My name is Casey McQuillan, and I am a Postdoctoral Research Fellow with the Economics Department and The Watson School of International and Public Affairs at Brown University. You can find my CV [here](https://casey-mcquillan.github.io/files/CV_McQuillan.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} and can reach me at [casey_mcquillan@brown.edu](mailto:casey_mcquillan@brown.edu). 
+Hello! My name is Casey McQuillan, and I am a Postdoctoral Research Associate with the Economics Department and The Watson School of International and Public Affairs at Brown University. You can find my CV [here](https://casey-mcquillan.github.io/files/CV_McQuillan.pdf){: target="_blank"  rel="noopener noreferrer" .paper-link} and can reach me at [casey_mcquillan@brown.edu](mailto:casey_mcquillan@brown.edu). 
 
 My research focuses on labor economics and public finance, examining how policy shapes inequality, opportunity, and welfare through the interaction of social insurance, public benefits, and labor markets. Working closely with policymakers, I use administrative data, quasi-experimental methods, and large-scale field experiments to identify the causal effects of policy interventions.
 
